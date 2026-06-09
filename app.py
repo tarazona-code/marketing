@@ -1,4 +1,3 @@
-  # -*- coding: utf-8 -*-
 """
 DIAGNÓSTICO RADICAL DEL FUNNEL — Dashboard interactivo
 Reto Marketing / Growth. Construido sobre datos crudos de atribución.
